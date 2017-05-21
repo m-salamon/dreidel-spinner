@@ -1,0 +1,8 @@
+//* Ignores the node_modules directory because it's not needed in the repository.
+//* Ignores the DS_STORE file on Mac because it's pointless committing that every time.
+//* Ignores npm log file because it's unnecessary to store that in the repository.
+
+# Mac.
+.DS_STORE
+
+audio/
